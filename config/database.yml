@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: ToDo_production
-  username: ToDo
-  password: <%= ENV['TODO_DATABASE_PASSWORD'] %>
+  username: corgan
+  password: <%= ENV['CORGANPWD'] %>
