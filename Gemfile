@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+group :production do
+  gem 'rails_12factor'
+end
+
 gem 'font-awesome-sass', '~> 4.4.0'
 gem 'simple_form'
 gem 'country_select'
