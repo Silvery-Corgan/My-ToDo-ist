@@ -2,4 +2,4 @@
 
 This is a task list application similar to Trello.com made in Ruby on Rails.
 
-This app has been deployed on Heroku. You can view a demo here: 
+This app has been deployed on Heroku. You can view a demo here: https://floating-dusk-6839.herokuapp.com/
